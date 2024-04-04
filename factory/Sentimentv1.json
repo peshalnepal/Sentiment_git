@@ -1,0 +1,9 @@
+{
+	"name": "Sentimentv1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2dd0043-1246-4e43-a58d-2c181b3a30ab",
+		"tenantId": "da9a94b6-4681-49bc-bd7c-bab9eac0ad3c"
+	}
+}
